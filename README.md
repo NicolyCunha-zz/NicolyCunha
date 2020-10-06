@@ -7,7 +7,8 @@
 My name is Nicoly and I'm 19 years old
 
 - :woman_technologist:  I'm currently working with .NET on Instituto Tecnológico Inovação
-- :memo:  I'm currently studying in FATEC Itaquaquecetuba
+- :memo:  I'm currently studying at FATEC Itaquaquecetuba
+- :dart: I really like to learn
 
 
 <!--
